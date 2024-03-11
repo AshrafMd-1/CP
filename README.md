@@ -1,2 +1,2 @@
-# Leetcode-Python
-Programs for leetcode in python
+# Compititive Programming
+Programs for leetcode in differnt languages
